@@ -1,7 +1,14 @@
 This folder contains matlab scripts.
 Work in progress, please expand.
 
-and include a discription to the file here:
+Include a discription of the script with file name below.
 
-Component Master:
-* 
+---
+
+# Component Master:
+This is a collection of calculations for a varity of electrical components, including some filters and measuring devices.
+
+# Regulators:
+  This is a collection of a variety of regulators (controllers) and plots.
+
+
