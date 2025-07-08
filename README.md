@@ -3,4 +3,4 @@ This is meant to be a repository open for collaboration for STEM students, shari
 
 Please make sure all work published is valid, clean, well structured and documented.
 
-i initially made this repo to share some of my scripts with my fellow students, since i've had the idea to make it a large public repo, to allow others to contribute, share and use the collective resources for all interested in anything STEM.
+i initially made this repo to share some of my scripts with my fellow students, since then i've had the idea to make it a large public repo, to allow others to contribute, share and use the collective resources for all interested in anything STEM.
